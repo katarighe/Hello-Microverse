@@ -9,9 +9,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 Hello Microverse <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> A first time Microverse project by Mohamed Aden Ighe done in less than 1 hour on 30 May 2023. 
 
 **Hello Microverse** is a project
 
