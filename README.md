@@ -34,8 +34,8 @@
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-- **Colorful text showing "Hello Microverse"**
-- **CSS Design**
+- Colorful red text showing **"Hello Microverse"**
+- CSS Design
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
