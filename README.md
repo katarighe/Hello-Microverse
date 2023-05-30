@@ -27,7 +27,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
+> Includes some of the simple features, like:
 
 - **Text**
 - **CSS Styling**
