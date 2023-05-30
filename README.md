@@ -21,8 +21,7 @@
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 Hello Microverse <a name="about-project"></a>
-
-> A first time Microverse project by Mohamed Aden Ighe done in less than 1 hour on 30 May 2023.
+A first time Microverse project by Mohamed Aden Ighe done in less than 1 hour on 30 May 2023.
 
 ## 🛠 Built With <a name="built-with"></a>
 - HTML
@@ -48,19 +47,10 @@
 - Twitter: [@katarighe](https://twitter.com/katarighe)
 - LinkedIn: [Mohamed Aden Ighe](https://linkedin.com/in/katarighe)
 
-<!-- ACKNOWLEDGEMENTS -->
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> I would like to thank team and my partners of Microverse for letting me build my first simple webpage.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> No new features won't be added anytime soon, as it is a simple web project.  
+No new features won't be added anytime soon, as it is a simple web project.  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -77,16 +67,14 @@ Feel free to check the [issues page](../../issues/).
 <!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
-
-> If you like this project give us a ⭐️ on our Github project page!
+If you like this project give us a ⭐️ on our Github project page!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> I would like to thank Microverse for letting me to build my first web application. 
+I would like to thank Microverse for letting me to build my first web application. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
