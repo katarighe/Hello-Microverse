@@ -24,8 +24,6 @@
 
 > A first time Microverse project by Mohamed Aden Ighe done in less than 1 hour on 30 May 2023.
 
-**Hello Microverse** is a project
-
 ## 🛠 Built With <a name="built-with"></a>
 - HTML
 - CSS
@@ -36,10 +34,7 @@
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
-
-- **Colorrful text**
+- **Colorful text showing "Hello Microverse"**
 - **CSS Design**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -49,15 +44,15 @@
 
 👤 **Mohamed Aden Ighe**
 
-- GitHub: [@githubhandle](https://github.com/katarighe)
-- Twitter: [@twitterhandle](https://twitter.com/katarighe)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/katarighe)
+- GitHub: [@katarighe](https://github.com/katarighe)
+- Twitter: [@katarighe](https://twitter.com/katarighe)
+- LinkedIn: [Mohamed Aden Ighe](https://linkedin.com/in/katarighe)
 
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> I would like to thank team and my partners of Microverse for letting me learn how to build my first simple webpage.
+> I would like to thank team and my partners of Microverse for letting me build my first simple webpage.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -65,7 +60,7 @@
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> As it is a simple introductionary project, no new features won't be added anytime soon. 
+> No new features won't be added anytime soon, as it is a simple web project.  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -83,7 +78,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> If you like this project give us a like on our facebook page - facebook.com/katarighe.
+> If you like this project give us a ⭐️ on our Github project page!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
