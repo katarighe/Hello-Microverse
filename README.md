@@ -21,7 +21,7 @@
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 Hello Microverse <a name="about-project"></a>
-A first time Microverse project by Mohamed Aden Ighe done in less than 1 hour on 30 May 2023.
+A first time Microverse project by Mohamed Aden Ighe completed in less than 1 hour on 30 May 2023.
 
 ## 🛠 Built With <a name="built-with"></a>
 - HTML
