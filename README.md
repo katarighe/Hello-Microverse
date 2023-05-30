@@ -1,8 +1,6 @@
-# Hello-Microverse
+# Hello Microverse
 
 <div><a name="readme-top"></a>
-
-  <h3><b>Hello Microverse</b></h3>
     <h2><b>A Project by Mohamed Aden Ighe</b></h2>
 
 </div>
