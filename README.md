@@ -20,7 +20,6 @@
 - GitHub
 - Gitbash
 
-
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
@@ -41,33 +40,13 @@
 - Twitter: [@twitterhandle](https://twitter.com/katarighe)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/katarighe)
 
-<!-- CONTRIBUTING -->
-
-## 🤝 Contributing <a name="contributing"></a>
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- SUPPORT -->
-
-## ⭐️ Show your support <a name="support"></a>
-
-> Write a message to encourage readers to support your project
-
-If you like this project...
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank team and my partners of Microverse for letting me learn how to build my first simple webpage.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
